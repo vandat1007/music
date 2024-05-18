@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "128247191302",
+    "firebase_url": "https://music-c8cfd-default-rtdb.firebaseio.com",
+    "project_id": "music-c8cfd",
+    "storage_bucket": "music-c8cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128247191302:android:cc3e93c1314cfe2c86f087",
+        "android_client_info": {
+          "package_name": "vn.ttdat.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8I9Wld0GjROftk3d_58ErmyT4o3h1HM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
